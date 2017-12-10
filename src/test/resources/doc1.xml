@@ -1,0 +1,19 @@
+<library>
+    <books>
+        <book>
+            <isbn>1</isbn>
+            <title>Voyage au centre de la Terre</title>
+            <author>Jule Verne</author>
+        </book>
+        <book>
+            <isbn>2</isbn>
+            <title>Harry Pother</title>
+            <author>J.K Rollings</author>
+        </book>
+        <book>
+            <isbn>3</isbn>
+            <title>Fantastic</title>
+            <author>J.K Rollings</author>
+        </book>
+    </books>
+</library>
